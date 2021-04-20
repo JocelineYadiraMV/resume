@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ArcherSemiboldPro';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ArcherSemiboldPro'), url('ArcherSemiboldPro.woff') format('woff');
+}
+
+p{
+      font-family: 'ArcherSemiboldPro';
+      color: black;
+}
